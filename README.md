@@ -1,6 +1,7 @@
 # BMI Calculator & Tracker
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-green?style=for-the-badge)](https://bmi-tracker.vercel.app)
+
 A modern React web application for calculating and tracking Body Mass Index (BMI), featuring persistent history, data visualization, and CSV export functionality.
 
 ## Live Demo
