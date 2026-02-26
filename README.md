@@ -95,5 +95,6 @@ npm run preview
 
 ## Author
 John Gill
+
 Bioinformatics and Software Engineering
 
