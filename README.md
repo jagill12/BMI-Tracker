@@ -7,7 +7,7 @@ A modern React web application for calculating and tracking Body Mass Index (BMI
 [https://vercel.com/jagill12s-projects/bmi-tracker](https://bmi-tracker-three.vercel.app/)
 
 ## Application Preview
-![BMI Tracker UI] (<img width="1217" height="829" alt="bmi-tracker-ui" src="https://github.com/user-attachments/assets/b407809f-5b83-402f-9aea-d765fc2690de" />)
+<img width="1217" height="829" alt="bmi-tracker-ui" src="https://github.com/user-attachments/assets/b407809f-5b83-402f-9aea-d765fc2690de" />
 
 ## Features
 
